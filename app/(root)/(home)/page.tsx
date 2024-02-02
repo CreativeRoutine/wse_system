@@ -18,7 +18,7 @@ const Home = () => {
       </div>
       <div className="container mx-auto flex flex-col py-2 ">
         <Table>
-          <TableCaption>A list of your recent invoices.</TableCaption>
+          <TableCaption>Printers summary for 01/01/2024.</TableCaption>
           <TableHeader>
             <TableRow>
               <TableHead className="w-[200px]">Tech Name</TableHead>
